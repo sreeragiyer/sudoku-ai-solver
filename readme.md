@@ -28,8 +28,7 @@ To train the threshold on the data directory
 
 # Computing the difficulty level of a Sudoku puzzle
 
-- A more difficult Sudoku will be one that takes a human more time to solve. Determining dif-
-ficulty of Sudoku puzzles can be done by counting the number of times different inference tech-
+- A more difficult Sudoku will be one that takes a human more time to solve. Determining difficulty of Sudoku puzzles can be done by counting the number of times different inference tech-
 niques have been used. Simpler problems will require lesser number of techniques to be used, and
 can be solved by a human by smart guesswork. More difficult problems will involve using tech-
 niques like XY-Chains, AIC, etc. (Reference for various techniques that can be used in Sudoku:
